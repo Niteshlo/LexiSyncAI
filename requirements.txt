@@ -1,0 +1,11 @@
+streamlit==1.41.1
+pymupdf==1.25.1
+pdfplumber==0.11.5
+rank-bm25==0.2.2
+sentence-transformers==3.3.1
+torch==2.5.1
+numpy==2.2.1
+pandas==2.2.3
+openai==1.59.7
+pillow==11.0.0
+pytesseract==0.3.13
