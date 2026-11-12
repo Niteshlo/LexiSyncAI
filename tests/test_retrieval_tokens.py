@@ -1,0 +1,1 @@
+from lexisync.retrieval import tokenize\n\ndef test_clause_number_preserved():\n    assert '7.2' in tokenize('See clause 7.2 and section 9.1')\n
